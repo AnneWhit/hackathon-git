@@ -1,12 +1,10 @@
 #!/usr/env/bin python
 
 a= "Hello "
-b= "World!"
-c = ""
+b= "World! "
+c=raw_input("What is your name?")
 
-print("What is you name?",entry(c))
+print(a+b+c)
 
-print(a+b+C)
-
-
-## Make an input.
+d = raw_input("How old are you?")
+print(d + " is a great age!")
