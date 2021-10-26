@@ -22,6 +22,8 @@ if e == "Spanish":
      print(Spanish)
      print("Estoy tan feliz" + c + "que hoy estas aqui conmigo.")
      print("tratar de aprender github por mi cuenta es difficil.")
+if e == "Spanish":
+     print(Spanish)
 elif e != "English" and e != "Spanish":
     print("[-] Please enter either English or Spanish.")
 
