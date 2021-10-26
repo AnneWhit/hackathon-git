@@ -16,8 +16,12 @@ Spanish = "Al espanol yo tambien hablo."
 
 if e == "English":
     print(English)
+    print("I am so happy, " + c +" that you are here with me today.")
+    print("Trying to learn Github by myself is hard.")
 if e == "Spanish":
      print(Spanish)
+     print("Estoy tan feliz" + c + "que hoy estas aqui conmigo.")
+     print("tratar de aprender github por mi cuenta es difficil.")
 elif e != "English" and e != "Spanish":
     print("[-] Please enter either English or Spanish.")
 
