@@ -2,8 +2,11 @@
 
 a= "Hello "
 b= "World!"
+c = ""
 
-print(a+b)
+print("What is you name?",entry(c))
+
+print(a+b+C)
 
 
 ## Make an input.
